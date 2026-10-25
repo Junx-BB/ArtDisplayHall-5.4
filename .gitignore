@@ -1,0 +1,14 @@
+# Unreal generated files
+Binaries/
+Build/Windows/FileOpenOrder/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+Config/ue-development/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
